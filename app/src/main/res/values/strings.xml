@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">P2Formulario</string>
+    <string name="usuario">Usuario</string>
+    <string name="registro">Registro</string>
+    <string name="husuario">Su Nickname</string>
+    <string name="password">Password</string>
+    <string name="hpassword">Su Password</string>
+    <string name="password2">Confirmar Password</string>
+    <string name="email">Email</string>
+    <string name="hemail">Su Email</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="otro">Otro</string>
+    <string name="sexo">Sexo</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cine">Cine</string>
+    <string name="comer">Comer</string>
+    <string name="dormir">Dormir</string>
+    <string name="bailar">Bailar</string>
+    <string name="deporte">Deporte</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="viajar">Viajar</string>
+    <string name="pick_date">Fecha</string>
+
+    <string-array name="ciudades">
+        <item>Medellín</item>
+        <item>Bogotá</item>
+        <item>Montería</item>
+        <item>Sincelejo</item>
+    </string-array>
+</resources>
+
